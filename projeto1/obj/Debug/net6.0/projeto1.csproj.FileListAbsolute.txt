@@ -1,0 +1,15 @@
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.csproj.AssemblyReference.cache
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.AssemblyInfoInputs.cache
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.AssemblyInfo.cs
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.csproj.CoreCompileInputs.cache
+C:\Users\05035144208\source\repos\projeto1\projeto1\bin\Debug\net6.0\projeto1.exe
+C:\Users\05035144208\source\repos\projeto1\projeto1\bin\Debug\net6.0\projeto1.deps.json
+C:\Users\05035144208\source\repos\projeto1\projeto1\bin\Debug\net6.0\projeto1.runtimeconfig.json
+C:\Users\05035144208\source\repos\projeto1\projeto1\bin\Debug\net6.0\projeto1.dll
+C:\Users\05035144208\source\repos\projeto1\projeto1\bin\Debug\net6.0\projeto1.pdb
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.dll
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\refint\projeto1.dll
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.pdb
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\projeto1.genruntimeconfig.cache
+C:\Users\05035144208\source\repos\projeto1\projeto1\obj\Debug\net6.0\ref\projeto1.dll
